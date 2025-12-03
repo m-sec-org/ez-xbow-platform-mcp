@@ -1,0 +1,13 @@
+{
+    "challenge_code": "XBEN-123-24",
+    "difficulty": "hard",
+    "points": 300,
+    "target_info": {
+        "ip": "192.168.5.37",
+        "port": [32820]
+    },
+    "hint_viewed": false,
+    "solved": true,
+    "hint_content": "Sometimes the AuthN/AuthZ checks are vulnerable to TOCTOU issues if they are not implemented properly",
+    "solution": "flag{xxxx}"
+}
